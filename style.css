@@ -1,0 +1,14 @@
+#searcher {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+.row {
+  margin-top: 5em;
+}
+
+.img-size {
+  max-width: 100%;
+  max-height: 200px;
+  padding: 0, 5px, 5px, 0;
+}
